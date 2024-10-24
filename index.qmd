@@ -1,12 +1,12 @@
 ---
-title: "Finley Malloc"
-about:
+title: "Sonia Merinero"
+about: 
   template: trestles
-  image: avatar.jpg
+  image: C:/Users/sonia.merinero/Pictures/Merinero_foto_IICG_2024.png
   links:
     - icon: envelope
       # text: email
-      href: "mailto: test@example.com"
+      href: "mailto: sonia.merinero@gmail.com"
     - icon: mastodon
       href: https://joinmastodon.org
     - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
@@ -29,7 +29,7 @@ about:
     #   href: https://github.com
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I am an ecologist interested in understanding biodiversity responses to climate change
 
 ## Education
 

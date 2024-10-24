@@ -20,13 +20,14 @@ website:
 
 
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
       - Projects.qmd
       - Publications.qmd
       - Blog.qmd
 
+#esto es para que los iconos se vean en la barra de navegación superior, pero Paco dice que queda muy mal en el móvil.
       # - icon: mastodon
       #   href: https://joinmastodon.org
       # - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
