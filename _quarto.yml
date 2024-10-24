@@ -4,7 +4,7 @@ project:
 
 
 website:
-  title: "My website"
+  title: "Sonia Merinero"
   description: "I am a scientist"
   site-url: https://pakillo.github.io/academic-website-template-Quarto
   repo-url: https://github.com/Pakillo/academic-website-template-Quarto
@@ -26,6 +26,7 @@ website:
       - Projects.qmd
       - Publications.qmd
       - Blog.qmd
+      - Curiosities.qmd
 
 #esto es para que los iconos se vean en la barra de navegación superior, pero Paco dice que queda muy mal en el móvil.
       # - icon: mastodon
